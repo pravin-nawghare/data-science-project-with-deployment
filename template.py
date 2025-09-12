@@ -6,7 +6,7 @@ logging.basicConfig(level=logging.INFO,
                     format='[%(asctime)s]: - %(levelname)s - %(message)s'
                     )
 
-project_name = "mlops-project"
+project_name = "mlopsproject"
 
 list_of_files = [
     ".github/workflows/.gitkeep",
