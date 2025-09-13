@@ -8,7 +8,7 @@
 
 ### Project workflow
 1. update config.yaml
-2. update schema.aml
+2. update schema.yaml
 3. update parmas.yaml
 4. update entity
 5. update configuration manager in src config
